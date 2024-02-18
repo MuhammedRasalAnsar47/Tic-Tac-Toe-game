@@ -1,6 +1,6 @@
 # Project Title
 
-Tic Tac Toe
+Tic Tac Toe game
 
 ## Description
 
@@ -8,7 +8,7 @@ Tic Tac Toe is a classic game for two players, represented by ❌ and ⭕️, wh
 
 ## Play the Game
 
-You can play the Tic Tac Toe game online by visiting here.
+You can play the Tic Tac Toe game online by visiting here. https://tic-tacc-toee-game.netlify.app/
 
 ## Rules of the Game
 
